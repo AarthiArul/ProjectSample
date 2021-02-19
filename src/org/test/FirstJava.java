@@ -11,6 +11,15 @@ public class FirstJava {
 		System.out.println("New Lines by Aarthi");
 		System.out.println("New Lines by Aarthi");
 		System.out.println("New Lines by Aarthi");
-	}
+		System.out.println("Arul lines are added");
+		System.out.println("Lines by Arul");
+		System.out.println("Lines by Arul");
+		System.out.println("Lines by Arul");
+		System.out.println("Aarthi Lines are added");
+		System.out.println("New Lines by Aarthi");
+		System.out.println("New Lines by Aarthi");
+		System.out.println("New Lines by Aarthi");
+		System.out.println("New Lines by Aarthi");
+}
 
 }
